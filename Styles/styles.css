@@ -1,0 +1,13 @@
+body{
+	font-family: 'Courgette', cursive;
+	background-color: rgb(89, 299, 226);
+}
+a:hover {
+	color: purple;
+}
+
+#BackgroundImage {
+	float: middle;
+	width: 900px;
+	height: 350px;
+}
